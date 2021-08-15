@@ -8,5 +8,4 @@
 
 
 # PRAKTIKUM MODUL CSS DASAR BIODATA
-# 1. BIODATA
 ![Alt Text](https://github.com/EganSatya18/egansat18/blob/master/Tugas%20Praktikum%20Biodata/Praktikum%20Modul%20CSS%20Dasar%20Biodata.png)
