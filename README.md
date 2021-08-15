@@ -5,3 +5,8 @@
 # 3. Praktikum HTML Resep Makanan
 ![Alt Text](https://github.com/EganSatya18/egansat18/blob/d7f17937f1b79724d209e1f27438c4c34bf4cd53/Praktikum%20Resep%20Makanan%201.png)
 ![Alt Text](https://github.com/EganSatya18/egansat18/blob/d7f17937f1b79724d209e1f27438c4c34bf4cd53/Praktikum%20Resep%20Makanan%202.png)
+
+
+# PRAKTIKUM MODUL CSS DASAR BIODATA
+# 1. BIODATA
+![Alt Text](https://github.com/EganSatya18/egansat18/blob/master/Tugas%20Praktikum%20Biodata/Praktikum%20Modul%20CSS%20Dasar%20Biodata.png)
